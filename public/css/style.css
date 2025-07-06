@@ -1,0 +1,15 @@
+.image_producto_registro{
+    border-radius: .25rem;
+}
+
+.main_sidebar_style{
+    background: #395886 !important;
+}
+
+.container-almacen-create-agg{
+    display: flex;
+}
+
+.img_producto{
+    width: 50px;
+}
